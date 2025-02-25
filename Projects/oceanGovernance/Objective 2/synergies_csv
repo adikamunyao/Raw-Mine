@@ -1,0 +1,49 @@
+Institution,Biodiversity & Ecosystem Conservation,Disaster Risk Reduction & Resilience,Environmental Protection & Climate Change,Human Rights,Human Rights Social Justice & Advocacy,International Cooperation & Governance,Research Science & Innovation,Security & Safety,Social Justice & Advocacy,Sustainable Development & Capacity Building,Trade Investment & Economic Cooperation
+BRS,0,0,1,0,0,1,0,0,0,0,0
+CBD,1,0,0,0,0,1,0,0,0,0,0
+CITES,1,0,1,0,0,0,0,0,0,0,0
+CMS,1,0,1,0,0,0,0,0,0,0,0
+FAO,1,0,0,0,0,0,0,0,0,1,0
+IAEA,0,0,1,0,0,1,1,0,0,0,0
+ICES,1,0,1,0,0,0,0,0,0,0,0
+IFAD,0,0,0,0,0,0,0,0,0,1,0
+IHO,0,0,1,0,0,0,1,0,0,0,0
+ILO,0,0,0,0,1,1,0,0,0,0,0
+IMF,0,0,0,0,0,1,0,0,0,0,1
+IMO Secretariat,0,0,1,0,0,1,0,0,0,0,0
+IOC,0,0,1,0,0,0,1,0,0,1,0
+IOM,0,0,0,0,0,1,0,0,0,1,0
+IPBES,1,0,1,0,0,0,1,0,0,0,0
+IPCC,0,0,1,0,0,0,1,0,0,0,0
+ISA,0,0,1,0,0,1,0,0,0,1,0
+ITC,0,0,0,0,0,0,0,0,0,0,1
+ITU,0,0,0,0,0,1,0,0,0,0,0
+Minamata,0,0,1,0,0,0,0,0,0,0,0
+OECD,0,0,0,0,0,0,0,0,0,1,1
+OHCHR,0,0,0,0,1,0,0,0,0,0,0
+Ramsar,1,0,1,0,0,0,0,0,0,0,0
+UN DOALOS,0,0,1,0,0,1,0,0,0,0,0
+UN Global Compact,0,0,0,0,0,0,0,0,0,1,0
+UN-Habitat,0,1,0,0,0,0,0,0,0,1,0
+UN-Women,0,0,0,0,1,0,0,0,0,0,0
+UNCCD,0,0,1,0,0,0,1,0,0,0,0
+UNCTAD,0,0,0,0,0,0,0,0,0,0,1
+UNDP,0,0,0,0,0,1,0,0,0,1,0
+UNDRR,0,1,1,0,0,0,0,0,0,0,0
+UNEP,0,0,1,0,0,0,1,0,0,1,0
+UNFCCC,0,0,1,0,0,0,1,0,0,0,0
+UNFPA,0,0,0,1,0,0,0,0,1,1,0
+UNICEF,0,0,0,0,1,0,0,0,0,1,0
+UNIDO,0,0,0,0,0,1,0,0,0,1,0
+UNODC,0,0,0,0,0,1,0,1,0,0,0
+UNOOSA,0,0,0,0,0,1,0,0,0,0,0
+UNOPS,0,0,0,0,0,0,0,0,0,1,0
+UNRISD,0,0,0,0,1,0,0,0,0,1,0
+UNU,0,0,0,0,0,0,1,0,0,1,0
+UNWTO,0,0,0,0,0,0,0,0,0,1,0
+WBG,0,0,0,0,0,1,0,0,0,1,0
+WFP,0,1,0,0,0,0,0,0,0,1,0
+WHO,0,0,1,0,0,0,1,0,0,0,0
+WIPO,1,0,0,0,0,0,1,0,0,0,0
+WMO,0,0,1,0,0,0,1,0,0,0,0
+WTO,0,0,0,0,0,0,0,0,0,0,1

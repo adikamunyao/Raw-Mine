@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Strategies vs. Objectives - Circular Heatmap</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body { margin: 20px; font-family: Arial, sans-serif; }
+        svg { width: 800px; height: 800px; background: #f5f5f5; }
+        .segment { stroke: #fff; stroke-width: 1px; }
+        .legend { font-size: 12px; }
+        button { margin: 5px; padding: 5px 10px; }
+    </style>
+</head>
+<body>
+    <div>
+        <button onclick="exportSVG()">Export as SVG</button>
+        <button onclick="exportPNG()">Export as PNG</button>
+    </div>
+    <svg></svg>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subject Matter Gaps Plot</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        .bar {
+            fill: #69b3a2;
+        }
+        .bar:hover {
+            fill: #ff7f0e;
+        }
+        .axis-label {
+            font-size: 12px;
+        }
+        .title {
+            font-size: 18px;
+            text-anchor: middle;
+        }
+        .tooltip {
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 10px;
+            border-radius: 5px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>Gaps in Subject Matter Jurisdictions</h2>
+    <div id="chart"></div>
+    <div class="tooltip"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
