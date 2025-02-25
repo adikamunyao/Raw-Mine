@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Institution Attributes Sankey Diagram</title>
+    <style>
+        .link {
+            fill: none;
+            stroke: #000;
+            stroke-opacity: .2;
+        }
+
+        .link:hover {
+            stroke-opacity: .5;
+        }
+
+        .node rect {
+            cursor: move;
+            fill-opacity: .9;
+            shape-rendering: crispEdges;
+        }
+
+        .node text {
+            pointer-events: none;
+            text-shadow: 0 1px 0 #fff;
+        }
+    </style>
+</head>
+<body>
+    <svg width="1200" height="800"></svg>
+    <script src="node_modules/d3/dist/d3.min.js"></script>
+    <script src="node_modules/d3-sankey/dist/d3-sankey.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

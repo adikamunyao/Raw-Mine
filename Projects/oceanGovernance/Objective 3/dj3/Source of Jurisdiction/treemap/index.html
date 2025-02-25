@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Treemap of Jurisdiction Sources</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+      }
+
+      #treemap {
+        width: 100%;
+        height: 600px;
+      }
+
+      rect {
+        stroke-width: 1;
+        stroke: #fff;
+      }
+
+      text {
+        font-size: 12px;
+        fill: #000;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Treemap: Jurisdictional Sources of IGOs</h1>
+    <div id="treemap"></div>
+    <script src="treemap.js"></script>
+  </body>
+</html>

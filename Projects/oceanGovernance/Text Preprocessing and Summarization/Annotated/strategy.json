@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "original_text": "The United Nations Office on Drugs and Crime (UNODC) executes its objectives and mandates through strategic plans and work programs supported by annual or biennial integrated budgets. The most recent five-year Strategic Plan, applicable for 2021-2025, aligns with the 2030 Agenda for Sustainable Development and focuses on key areas including the world drug problem, organized crime, and criminal justice. The UNODC is funded mainly by voluntary contributions and faces challenges in securing adequate funding to support its mission.",
+      "annotation": "The UNODC's 2021-2025 Strategic Plan addresses key areas such as the world drug problem, organized crime, and criminal justice. The plan is aligned with the 2030 Agenda for Sustainable Development. UNODC faces funding challenges and is primarily funded by voluntary contributions.",
+      "keywords": ["UNODC", "strategic plan", "drug problem", "organized crime", "funding challenges"]
+    },
+    {
+      "id": 2,
+      "original_text": "The Ramsar Secretariat executes its defined objectives following certain strategies, including its fourth strategic plan which spans from 2016-2024. This plan has three strategic goals: 1) address the drivers of wetland loss and degradation; 2) effectively conserve and manage the Ramsar Site Network; and 3) wisely use all wetlands. The Secretariat also has a Workplan that is structured around the seven core functions of the Secretariat and sets out principal activities and corresponding annual and triennial indicators for each.",
+      "annotation": "The Ramsar Secretariat’s 2016-2024 Strategic Plan focuses on wetland conservation, managing Ramsar Sites, and wise use of wetlands. The Workplan outlines the Secretariat's core functions and activities.",
+      "keywords": ["Ramsar Secretariat", "strategic plan", "wetland conservation", "Ramsar Sites", "wise use"]
+    },
+    {
+      "id": 3,
+      "original_text": "The Minamata Convention Secretariat executes its objectives through specific strategies. The Secretariat develops a programme of work and budget for each biennium, which is approved by the Conference of the Parties. The programme of work for 2024-2025 outlines the activities, outputs, indicators, and resources for implementing the Convention based on the needs and priorities of the Parties and other stakeholders.",
+      "annotation": "The Minamata Convention Secretariat’s programme for 2024-2025 outlines its priorities, activities, and budget for implementation. The Secretariat supports Parties in meeting their obligations under the Convention.",
+      "keywords": ["Minamata Convention", "programme of work", "2024-2025", "budget", "stakeholders"]
+    },
+    {
+      "id": 4,
+      "original_text": "The United Nations University (UNU) implements its objectives and mandates through a variety of strategies. The UNU has a strategic plan that guides the development and implementation of the institute’s research, policy development, teaching, and capacity-building initiatives. The current strategic plan spans from 2020 to 2024 and focuses on the UNU's commitment to sustainable human development.",
+      "annotation": "The UNU’s 2020-2024 Strategic Plan focuses on research, policy development, teaching, and capacity-building initiatives, all contributing to sustainable human development.",
+      "keywords": ["UNU", "strategic plan", "research", "policy development", "sustainable development"]
+    }
+  ]
+  
